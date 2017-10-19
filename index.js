@@ -79,4 +79,4 @@ Plugin.install = function(Vue, options){
 	});
 };
 
-module.exports = Plugin;
+export default Plugin;
